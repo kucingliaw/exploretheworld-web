@@ -33,6 +33,7 @@ img {
 a {
     text-decoration: none;
     color: var(--dark);
+    -webkit-tap-highlight-color: hsl(0, 0%, 100%);
 }
 
 ul {
